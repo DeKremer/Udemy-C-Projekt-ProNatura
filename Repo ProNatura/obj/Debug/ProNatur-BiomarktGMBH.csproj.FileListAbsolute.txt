@@ -1,0 +1,22 @@
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\bin\Debug\ProNatur-BiomarktGMBH.exe.config
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\bin\Debug\ProNatur-BiomarktGMBH.exe
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\bin\Debug\ProNatur-BiomarktGMBH.pdb
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\obj\Debug\ProNatur-BiomarktGMBH.csproj.AssemblyReference.cache
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\obj\Debug\ProNatur_BiomarktGMBH.LoadingScreen.resources
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\obj\Debug\ProNatur_BiomarktGMBH.Properties.Resources.resources
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\obj\Debug\ProNatur-BiomarktGMBH.csproj.GenerateResource.cache
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\obj\Debug\ProNatur-BiomarktGMBH.csproj.CoreCompileInputs.cache
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\obj\Debug\ProNatur-BiomarktGMBH.exe
+C:\Users\caspe\Desktop\ProNatur-BiomarktGMBH\ProNatur-BiomarktGMBH\obj\Debug\ProNatur-BiomarktGMBH.pdb
+H:\GitHubProjekte\Repo ProNatura\bin\Debug\ProNatur-BiomarktGMBH.exe.config
+H:\GitHubProjekte\Repo ProNatura\bin\Debug\ProNatur-BiomarktGMBH.exe
+H:\GitHubProjekte\Repo ProNatura\bin\Debug\ProNatur-BiomarktGMBH.pdb
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur-BiomarktGMBH.csproj.AssemblyReference.cache
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur_BiomarktGMBH.LoadingScreen.resources
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur_BiomarktGMBH.Properties.Resources.resources
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur-BiomarktGMBH.csproj.GenerateResource.cache
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur-BiomarktGMBH.csproj.CoreCompileInputs.cache
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur-BiomarktGMBH.exe
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur-BiomarktGMBH.pdb
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur_BiomarktGMBH.MainMenuScreen.resources
+H:\GitHubProjekte\Repo ProNatura\obj\Debug\ProNatur_BiomarktGMBH.ProductsScreen.resources
